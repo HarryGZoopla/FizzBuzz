@@ -1,0 +1,12 @@
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.deps.json
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.runtimeconfig.json
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.runtimeconfig.dev.json
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.dll
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.pdb
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.csprojAssemblyReference.cache
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.AssemblyInfoInputs.cache
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.AssemblyInfo.cs
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.csproj.CoreCompileInputs.cache
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.dll
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.pdb
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/Fizzbuzz/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.genruntimeconfig.cache
